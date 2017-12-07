@@ -1,0 +1,11 @@
+
+@import 'inlineIcons';
+
+@function inline-svg($svgFile) {
+  @return "url(data:image/svg+xml;base64,#{map-get($inlineIcons, $svgFile)});";
+}
+
+.icon {
+  background-repeat: none;
+  background-size: 100% 100%;
+}
