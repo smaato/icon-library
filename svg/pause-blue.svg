@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" enable-background="new 0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>pause-blue</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pause-blue" fill="#2799C4">
+            <path d="M238,11 L304,11 C311.731986,11 318,17.2680135 318,25 L318,374 C318,381.731986 311.731986,388 304,388 L238,388 C230.268014,388 224,381.731986 224,374 L224,25 L224,25 C224,17.2680135 230.268014,11 238,11 Z M97,11 L163,11 C170.731986,11 177,17.2680135 177,25 L177,374 C177,381.731986 170.731986,388 163,388 L97,388 C89.2680135,388 83,381.731986 83,374 L83,25 L83,25 C83,17.2680135 89.2680135,11 97,11 L97,11 Z" id="Pause"></path>
+        </g>
+    </g>
+</svg>

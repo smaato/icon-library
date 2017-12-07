@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" enable-background="new 0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-ellipsis</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-ellipsis" fill="#000000">
+            <path d="M341.5,256 C310.848196,256 286,231.151804 286,200.5 C286,169.848196 310.848196,145 341.5,145 C372.151804,145 397,169.848196 397,200.5 C397,231.151804 372.151804,256 341.5,256 Z M59.5,256 C28.8481964,256 4,231.151804 4,200.5 C4,169.848196 28.8481964,145 59.5,145 C90.1518036,145 115,169.848196 115,200.5 C115,231.151804 90.1518036,256 59.5,256 Z M200.5,256 C169.848196,256 145,231.151804 145,200.5 C145,169.848196 169.848196,145 200.5,145 C231.151804,145 256,169.848196 256,200.5 C256,231.151804 231.151804,256 200.5,256 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
