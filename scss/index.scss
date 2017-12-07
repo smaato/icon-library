@@ -2,7 +2,7 @@
 @import 'inlineIcons';
 
 @function inline-svg($svgFile) {
-  @return "url(data:image/svg+xml;base64,#{map-get($inlineIcons, $svgFile)});";
+  @return url(data:image/svg+xml;base64,#{map-get($inlineIcons, $svgFile)});;
 }
 
 .icon {
@@ -12,47 +12,49 @@
 
 @import "icons/action";
 @import "icons/asterisk";
-@import "icons/calendar-white";
 @import "icons/calendar";
+@import "icons/calendar-white";
 @import "icons/chart";
-@import "icons/check-circled-green";
-@import "icons/check-circled";
+@import "icons/check";
 @import "icons/check-green";
 @import "icons/check-white";
-@import "icons/check";
+@import "icons/check-circled";
+@import "icons/check-circled-green";
 @import "icons/close";
 @import "icons/cog";
 @import "icons/deal";
 @import "icons/document";
-@import "icons/edit-blue";
 @import "icons/edit";
+@import "icons/edit-blue";
 @import "icons/ellipsis";
+@import "icons/exchange";
 @import "icons/exchange-grey";
+@import "icons/exchange-white";
+@import "icons/exchange-settings";
 @import "icons/exchange-settings-grey";
 @import "icons/exchange-settings-white";
-@import "icons/exchange";
-@import "icons/history-blue";
 @import "icons/history";
+@import "icons/history-blue";
 @import "icons/info";
 @import "icons/link";
 @import "icons/magnifier";
-@import "icons/not-allowed-red";
 @import "icons/not-allowed";
+@import "icons/not-allowed-red";
 @import "icons/paperclip";
-@import "icons/pause-blue";
 @import "icons/pause";
-@import "icons/play-blue";
+@import "icons/pause-blue";
 @import "icons/play";
-@import "icons/plus-circle-green";
-@import "icons/plus-circle";
-@import "icons/plus-white";
+@import "icons/play-blue";
 @import "icons/plus";
+@import "icons/plus-white";
+@import "icons/plus-circle";
+@import "icons/plus-circle-green";
 @import "icons/private-deal";
+@import "icons/remove";
 @import "icons/remove-blue";
+@import "icons/remove-circle";
 @import "icons/remove-circle-blue";
 @import "icons/remove-circle-red";
-@import "icons/remove-circle";
-@import "icons/remove";
 @import "icons/target";
-@import "icons/user-white";
 @import "icons/user";
+@import "icons/user-white";
