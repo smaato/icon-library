@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" enable-background="new 0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-not-allowed-red</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-not-allowed-red" fill="#FF2400">
+            <path d="M124.609658,320.356297 C146.456537,334.069902 172.302182,342 200,342 C278.424434,342 342,278.424434 342,200 C342,172.302182 334.069902,146.456537 320.356297,124.609658 L124.609658,320.356297 Z M78.1227355,272.91131 L272.91131,78.1227355 C251.598923,65.3454581 226.657273,58 200,58 C121.575566,58 58,121.575566 58,200 C58,226.657273 65.3454581,251.598923 78.1227355,272.91131 Z M200,393 C93.4090433,393 7,306.590957 7,200 C7,93.4090433 93.4090433,7 200,7 C306.590957,7 393,93.4090433 393,200 C393,306.590957 306.590957,393 200,393 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
