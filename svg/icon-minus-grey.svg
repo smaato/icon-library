@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400px" height="400px" viewBox="0 0 400 400" enable-background="new 0 0 400 400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-minus-grey</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon-minus-grey" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M398,166 L398,235 C398,237.761424 395.78381,240 393.05,240 L6.95,240 C4.21619049,240 2,237.761424 2,235 L2,166 C2,163.238576 4.21619049,161 6.95,161 L393.05,161 C395.78381,161 398,163.238576 398,166 Z" id="minus" fill="#526770"></path>
+    </g>
+</svg>
