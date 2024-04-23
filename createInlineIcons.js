@@ -1,4 +1,3 @@
-
 const fs = require('fs');
 
 const PATH_TO_SCSS_ICON_FILE = './scss/_inlineIcons.scss';

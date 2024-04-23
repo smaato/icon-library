@@ -38,7 +38,7 @@ use) and linking it will result in an additional request.
 
 ## Development
 
-The project requires `node (v8.9.1)` and `npm (5.5.1)`. Run `npm install` to install the dependencies.
+The project requires `node (v20.12.2)` and `npm (10.5.0)`. Run `npm install` to install the dependencies.
 
 Run:
 * `npm run createInlineIcons` to create inline icons from the SVG icons
