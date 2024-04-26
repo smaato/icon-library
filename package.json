@@ -1,9 +1,9 @@
 {
   "name": "icon-library",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Smaato's icon library",
   "scripts": {
-    "compileScss": "node-sass scss/index.scss css/index.css",
+    "compileScss": "sass --no-source-map scss/index.scss css/index.css",
     "createInlineIcons": "node createInlineIcons.js",
     "lint": "eslint .",
     "precommit": "npm run lint",
@@ -14,13 +14,13 @@
     "url": "git+https://github.com/smaato/icon-library.git"
   },
   "license": "MIT",
+  "dependencies": {
+    "sass": "^1.75.0"
+  },
   "devDependencies": {
-    "eslint": "^4.12.1",
-    "eslint-config-airbnb": "^16.1.0",
-    "eslint-plugin-import": "^2.8.0",
-    "eslint-plugin-jsx-a11y": "^6.0.2",
-    "eslint-plugin-react": "^7.5.1",
-    "husky": "^0.14.3",
-    "node-sass": "^4.7.2"
+    "eslint": "^8.57.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1",
+    "husky": "^9.0.11"
   }
 }
